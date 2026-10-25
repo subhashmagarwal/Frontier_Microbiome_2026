@@ -1,0 +1,5 @@
+﻿Paper,Case_mean,Case_std,Case_sample_number,Control_mean,Control_std,Control_sample_number
+Halboub et al. 2020,0.099203851,0.07573235,29,0.125,0.07,23
+Sajid et al. 2023,3.284574619,2.507987273,12,1.391653231,1.289057667,10
+Uehara et al. 2021,0.04583,0.03459,19,0.02655,0.06526,23
+Srivastava et al. 2021,0.00695,0.0064,20,0.00943,0.01045,20
